@@ -1,4 +1,4 @@
 first-repo
 ==========
 
-vlabs workshop
+my first repo
