@@ -1,5 +1,6 @@
 first-repo
 ==========
 
-my first repo <b>
-its cool
+my first repo  <br>
+<b> <color="red">
+its cool </color> </b>
